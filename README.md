@@ -30,8 +30,8 @@
 <!-- 다룰줄 아는 프레임워크 및 툴 -->
 <h3 align="left">🔨 Use FrameWorks and Tools</h3>
 <p>
-  <img src="https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white">
