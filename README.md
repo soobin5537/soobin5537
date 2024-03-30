@@ -44,9 +44,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=soobin5537&label=Profile%20views&color=0e75b6&style=flat" alt="soobin5537" /> </p>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin5537&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=44% />
-  </a>    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin5537&show_icons=true&theme=material-palenight&bg_color=20232a&hide_border=true&icon_color=58A6FF&text_color=fff&&layout=compact"/>
+  </a><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=soobin5537&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=soobin5537&show_icons=true&theme=material-palenight&bg_color=20232a&hide_border=true&icon_color=58A6FF&text_color=fff" />
+  </a>    
 </p>
