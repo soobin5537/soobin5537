@@ -1,59 +1,48 @@
-# Welcome to my GitHub Profile! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-Hi, I'm **bin5537**, a passionate developer who loves to explore new technologies and contribute to open-source projects! 🚀
+<h1 align="left">Hi 👋, I'm subin</h1>
+<h3 align="left">Korean college student</h3>
 
----
+- 📧 Email: **subinp5537@gmail.com**
+- 📷 instagram: **<a href="https://www.instagram.com/s_ubin1115">s_ubin1115</a>**
 
-## About Me
 
-- 🌱 I’m currently learning **Web Development**, **Machine Learning**, and **Cloud Computing**.
-- 🔭 I’m working on **GitHub Profile 3D Contributions**.
-- 🌍 I’m from **Korea**.
-- 💬 Ask me about **React**, **Node.js**, or anything related to **web development**!
-- ⚡ Fun fact: I love **playing video games** and **reading books**.
+<!-- 공부중인 언어 -->
+<h3 align="left">📚 Study Languages and FrameWorks and Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white">
+</p>
 
----
+<!-- 다룰줄 아는 언어 -->
+<h3 align="left">⚙️ Use Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
+</p>
+  
+<!-- 다룰줄 아는 프레임워크 및 툴 -->
+<h3 align="left">🔨 Use FrameWorks and Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</p>
 
-## GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bin5537&show_icons=true&theme=radical)
-
----
-
-## My Projects
-
-Here are some of my notable projects:
-
-### [Project Name 1](https://github.com/bin5537/project-name-1)
-
-- 🛠 **Technologies used**: HTML, CSS, JavaScript
-- 📑 **Description**: A brief description of the project goes here.
-
-### [Project Name 2](https://github.com/bin5537/project-name-2)
-
-- 🛠 **Technologies used**: React, Node.js, MongoDB
-- 📑 **Description**: A brief description of the project goes here.
-
----
-
-## 3D GitHub Contributions
-
-Check out my 3D GitHub contributions below:
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile 3D" width="500" style="border-radius: 15px;">
-
----
-
-## Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/bin5537/)
-- [Twitter](https://twitter.com/bin5537)
-- [Email](mailto:bin5537@example.com)
-
----
-
-## 🎯 My Goals for 2024
-
-- 🌱 Learn **AI/ML** technologies.
-- 📝 Contribute more to open-source projects.
-- 🚀 Build a personal **portfolio website**.
+<!-- 깃허브 통계 -->
+<h3 align="left">📈 my github stats</h3><br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=soobin5537&label=Profile%20views&color=0e75b6&style=flat" alt="soobin5537" /> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin5537&show_icons=true&theme=material-palenight&bg_color=20232a&hide_border=true&icon_color=58A6FF&text_color=fff&&layout=compact"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=soobin5537&show_icons=true&theme=material-palenight&bg_color=20232a&hide_border=true&icon_color=58A6FF&text_color=fff" />
+</p>
